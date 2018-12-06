@@ -10,6 +10,6 @@ Use your terminal to instal node modules:
 3. npm install xml
 4. npm install ssf
 Then run this npm command:
-npm start locale_gen.js test.xlsx
+node locale_gen.js test.xlsx
 
 You can change list of locales according to languages names (id) in excel file.
