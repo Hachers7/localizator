@@ -9,6 +9,7 @@ Use your terminal to instal node modules:
 2. npm install xlsx
 3. npm install xml
 4. npm install ssf
+
 Then run this npm command:
 node locale_gen.js test.xlsx
 
