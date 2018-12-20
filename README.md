@@ -2,7 +2,8 @@
 creating different locales using excel, json and xml
 
 
-How to run
+<b>How to run</b>
+
 Make sure you have installed npm and Node on your PC
 Use your terminal to instal node modules:
 1. npm install
